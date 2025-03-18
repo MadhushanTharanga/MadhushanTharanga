@@ -1,5 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Madhushan Tharanga
 ==========================================================================================================================================
+<h3 align="center">🚀 Emerging Full Stack Developer | Sri Lanka</h3>
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+%26+Mobile+Developer;Tech+Enthusiast;Code+Craftsman;Solution+Architect;Innovation+Engineer" alt="Typing SVG" /> 
+</p>
+
 
 Undergraduate Software Engineer at National Institute of Business Management Colombo 07
 -------------------------------------
